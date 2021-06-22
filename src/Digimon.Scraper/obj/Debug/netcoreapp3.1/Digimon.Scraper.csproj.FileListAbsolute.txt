@@ -1,0 +1,45 @@
+E:\Documents\Visual Studio Projects\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\Digimon.Scraper.exe
+E:\Documents\Visual Studio Projects\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\Digimon.Scraper.deps.json
+E:\Documents\Visual Studio Projects\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\Digimon.Scraper.runtimeconfig.json
+E:\Documents\Visual Studio Projects\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\Digimon.Scraper.runtimeconfig.dev.json
+E:\Documents\Visual Studio Projects\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\Digimon.Scraper.dll
+E:\Documents\Visual Studio Projects\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\Digimon.Scraper.pdb
+E:\Documents\Visual Studio Projects\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\AngleSharp.dll
+E:\Documents\Visual Studio Projects\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Documents\Visual Studio Projects\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\Documents\Visual Studio Projects\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+E:\Documents\Visual Studio Projects\Digimon\src\Digimon.Scraper\obj\Debug\netcoreapp3.1\Digimon.Scraper.csproj.AssemblyReference.cache
+E:\Documents\Visual Studio Projects\Digimon\src\Digimon.Scraper\obj\Debug\netcoreapp3.1\Digimon.Scraper.AssemblyInfoInputs.cache
+E:\Documents\Visual Studio Projects\Digimon\src\Digimon.Scraper\obj\Debug\netcoreapp3.1\Digimon.Scraper.AssemblyInfo.cs
+E:\Documents\Visual Studio Projects\Digimon\src\Digimon.Scraper\obj\Debug\netcoreapp3.1\Digimon.Scraper.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio Projects\Digimon\src\Digimon.Scraper\obj\Debug\netcoreapp3.1\Digimon.Scraper.csproj.CopyComplete
+E:\Documents\Visual Studio Projects\Digimon\src\Digimon.Scraper\obj\Debug\netcoreapp3.1\Digimon.Scraper.dll
+E:\Documents\Visual Studio Projects\Digimon\src\Digimon.Scraper\obj\Debug\netcoreapp3.1\Digimon.Scraper.pdb
+E:\Documents\Visual Studio Projects\Digimon\src\Digimon.Scraper\obj\Debug\netcoreapp3.1\Digimon.Scraper.genruntimeconfig.cache
+E:\Documents\Visual Studio Projects\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\Digimon.Scraper.exe
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\Digimon.Scraper.deps.json
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\Digimon.Scraper.runtimeconfig.json
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\Digimon.Scraper.runtimeconfig.dev.json
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\Digimon.Scraper.dll
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\Digimon.Scraper.pdb
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\AngleSharp.dll
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\obj\Debug\netcoreapp3.1\Digimon.Scraper.AssemblyInfoInputs.cache
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\obj\Debug\netcoreapp3.1\Digimon.Scraper.AssemblyInfo.cs
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\obj\Debug\netcoreapp3.1\Digimon.Scraper.csproj.CoreCompileInputs.cache
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\obj\Debug\netcoreapp3.1\Digimon.Scraper.csproj.CopyComplete
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\obj\Debug\netcoreapp3.1\Digimon.Scraper.dll
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\obj\Debug\netcoreapp3.1\Digimon.Scraper.pdb
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\obj\Debug\netcoreapp3.1\Digimon.Scraper.genruntimeconfig.cache
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\obj\Debug\netcoreapp3.1\Digimon.Scraper.csprojAssemblyReference.cache
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\jvong\OneDrive\Desktop\Digimon\src\Digimon.Scraper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
