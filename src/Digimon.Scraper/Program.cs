@@ -7,6 +7,7 @@ using AngleSharp.Dom;
 using Digimon.Scraper.Models;
 using Newtonsoft.Json;
 using System.IO;
+using System.Net;
 using System.Text;
 using System.Security.AccessControl;
 using System.Security.Principal;
@@ -61,6 +62,9 @@ namespace Digimon.Scraper
         {
           var html = await BrowsingContext.New(Configuration.Default).OpenAsync(req => req.Content(element.InnerHtml));
           var card = ScrapeCard(html);
+          
+          // Download card image
+          DownloadImage(card);
 
           cards.Add(card);
         }));
@@ -111,6 +115,33 @@ namespace Digimon.Scraper
         Console.WriteLine("Executing finally block.");
       }
     }
+    
+    private static void DownloadImage(Card card)
+    {
+      var index = card.Number.IndexOf('-');
+      var path = $"C:/Users/jvong/Documents/DigimonExports/ExportedSets/{card.Number.Substring(0,index)}/images/";
+      
+      if (Directory.Exists(path))
+      {
+        Console.WriteLine("That path exists already.");
+      }
+      else
+      {
+        //Create directory
+        DirectoryInfo di = Directory.CreateDirectory(path); 
+      }
+
+      using(WebClient client = new WebClient())
+      {
+        var isAlternate = "";
+        if (card.IsAlternate)
+        {
+          isAlternate = "_alternate";
+        }
+        client.DownloadFile(card.ImageUrl, path + $"{card.Number}{isAlternate}.jpg");
+      }
+    }
+
     private static Card ScrapeCard(IDocument document)
     {
       var card = new Card();
